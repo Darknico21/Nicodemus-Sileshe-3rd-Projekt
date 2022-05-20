@@ -1,0 +1,27 @@
+.button {
+    width: 15vw;
+    height: 5vw;
+    display: flex;
+    align-items: center;
+}
+
+.rubrik {
+    color: rgb(70, 253, 238);
+    background:darkblue;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.welcome {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+}
